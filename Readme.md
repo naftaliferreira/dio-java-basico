@@ -28,7 +28,7 @@ Bootcamp DIO Santander
 
 * Princípoios de Desenvolvimento de Software Colaborativo
 
-* Versionamento de código com Git e Github
+* [Versionamento de código com Git e Github](/conteudo_bootcamp/Versionamento_de_código_com_Git_e_Github.md)
 
 * Projeto: Contribuindo em um projeto OpenSource
 
