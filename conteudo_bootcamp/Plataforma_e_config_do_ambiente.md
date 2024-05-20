@@ -110,6 +110,8 @@ Quando instalar o JDK, o JRE também será instalado
 
 [manual de instalação e configuração da IDE VSCode](https://balta.io/blog/visual-studio-code-instalacao-customizacao#:~:text=A%20instala%C3%A7%C3%A3o%20no%20Linux%20%C3%A9,Download%20voc%C3%AA%20ter%C3%A1%20um%20pacote%20.)
 
+> Para adicionar os botões run | debug dentro do código usar esta extensão <https://code.visualstudio.com/docs/java/java-debugging>
+
 ---
 
 #### Instalando o Eclipse
