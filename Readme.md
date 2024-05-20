@@ -34,7 +34,7 @@ Bootcamp DIO Santander
 
 * Dominando a Linguagem de Programação Java
 
-* Ambiente de Desenvolvimento Java
+* [Ambiente de Desenvolvimento Java](/conteudo_bootcamp/Plataforma_e_config_do_ambiente.md)
 
 * Aprendendo a Sintaxe Java
 * Simulando uma conta Bancária Através do Terminal/Console
