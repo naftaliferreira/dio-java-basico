@@ -6,6 +6,8 @@ Repositório para armazenar todo o conteúdo do curso de Java básico do bootcam
 
 ## Estrutura
 
+```shell
+
 Bootcamp
 |
 |_README.MD
@@ -22,6 +24,7 @@ Bootcamp
 |
 |_ config
 
+```
 ## Conteúdo
 
 Bootcamp DIO Santander
@@ -36,7 +39,7 @@ Bootcamp DIO Santander
 
 * [Ambiente de Desenvolvimento Java](/conteudo_bootcamp/Plataforma_e_config_do_ambiente.md)
 
-* Aprendendo a Sintaxe Java
+* [Aprendendo a Sintaxe Java](/conteudo_bootcamp/Aprendendo_a_sintaxe_Java.md)
 * Simulando uma conta Bancária Através do Terminal/Console
 * Introdução e Estruturas Condicionais com Java
 * Estruturas de Repetição em Java
