@@ -9,14 +9,24 @@ Conteúdo apresentará a sintaxe básica aplicada dentro da linguagem Java. Ser�
 > Para saber mais acesse:
 > [java básico](https://glysns.gitbook.io/java-basico/)
 ### Anatomia das classes
-**Assuntos**
-* Estrutura inicial 
-* Padrão de nomenclatura
-* Declarando variáveis e métodos
-* Identação 
-* Organizando arquivos
-* Java Beans
+> **Assuntos**
+>* Estrutura inicial 
+>* Padrão de nomenclatura
+>* Declarando variáveis e métodos
+>* Identação 
+>* Organizando arquivos
+>* Java Beans
 
+[Resumo sobre anatomia das classes](https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes)
+* É comum mesclar expressões no idioma americano com o nosso;
+* Existem projetos que recomendam que toda a implementação seja do programa seja escrita na lingua inglesa.
+
+#### Sintaxe de declaração de uma nova classe:
+```
+public class MinhaClass {
+	// Seu código aqui
+}
+```
 ### Tipos de variáveis
 
 ### Operadores
