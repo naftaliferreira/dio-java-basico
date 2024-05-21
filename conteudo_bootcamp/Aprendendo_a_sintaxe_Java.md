@@ -27,6 +27,31 @@ public class MinhaClass {
 	// Seu código aqui
 }
 ```
+* Quando for nomear uma classe, por via de regra, deve sempre começar com letra maiuscula e caso possua mais de uma palavra no nome, todas elas deverão começar com maiusculas.
+* Se a classe for uma classe executável, tem a capacidade de inicializar o projeto de forma independente, é necessário ter um método especial (método principal).  Denominado de main.
+```
+public class MinhaClass {
+
+public static void main (String[] args) {
+	System.out.print ("Olá turma, sejam bem-vindos");
+}
+	
+}
+```
+* public static -> 
+* void -> Não irá retornar nada
+* main -> Nome do método
+* () -> Parâmetro
+* String -> tipo de parâmetro desejado
+* [] -> Expressão para determinar um array
+* args -> Parâmetro argumentos
+* public static void main (String[] args) -> método
+* Dentro do método também possui um corpo ->  { } 
+* System -> classe de sistema
+	* Possui parâmetros  **in**: **InputStream**, **out**:**PrintStream**
+* print -> inprime na tela uma mensagem.
+* Tudo dentro de () é método.
+* 
 ### Tipos de variáveis
 
 ### Operadores
