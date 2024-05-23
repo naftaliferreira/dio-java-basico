@@ -38,20 +38,11 @@ public static void main (String[] args) {
 	
 }
 ```
-* public static -> 
-* void -> Não irá retornar nada
-* main -> Nome do método
-* () -> Parâmetro
-* String -> tipo de parâmetro desejado
-* [] -> Expressão para determinar um array
-* args -> Parâmetro argumentos
-* public static void main (String[] args) -> método
-* Dentro do método também possui um corpo ->  { } 
-* System -> classe de sistema
-	* Possui parâmetros  **in**: **InputStream**, **out**:**PrintStream**
-* print -> inprime na tela uma mensagem.
-* Tudo dentro de () é método.
-* 
+
+
+
+
+ 
 ### Tipos de variáveis
 
 ### Operadores
